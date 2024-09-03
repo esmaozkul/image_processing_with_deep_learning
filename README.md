@@ -77,7 +77,7 @@ Corner Detection
 
 Contour Detection
 
-Color-based Object Detection
+Color-Based Object Detection
 
 Template Matching
 
