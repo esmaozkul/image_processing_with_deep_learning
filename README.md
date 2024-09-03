@@ -102,6 +102,7 @@ Tracking Algorithms
 Mean Shift Algorithm
 
 🚀 Getting Started
+
 To get started with this repository, simply clone it to your local machine:
 git clone https://github.com/esmaozkul/image_processing_with_deep_learning.git
 
