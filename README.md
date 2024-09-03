@@ -114,6 +114,7 @@ Comprehensive Content: From basic Python syntax to advanced computer vision tech
 Structured Learning: Follow the topics sequentially to build a strong foundation in image processing and computer vision.
 
 📷 Project Showcase
+
 Here are some of the exciting projects you'll work on:
 
 Face Recognition: Implement a real-time face detection and recognition system.
@@ -123,4 +124,5 @@ Object Tracking: Learn to track objects using advanced algorithms.
 Pedestrian Detection: Detect pedestrians in real-world footage using OpenCV.
 
 🛠️ How to Contribute
+
 We welcome contributions! If you have any ideas, bug reports, or improvements, feel free to open an issue or submit a pull request.
