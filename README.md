@@ -4,6 +4,7 @@ Deep Learning with Image Processing repository welcomes you!
 This project covers a wide range of topics and exercises necessary to learn image processing and computer vision techniques using Python, OpenCV, and Keras.
 
 📚 Table of Contents
+
 This repository includes the following topics :
 
 🐍 Python Basics
