@@ -12,7 +12,7 @@ Variables
 
 Basic Syntax
 
-Data Structures
+Data Structures:
 
 Lists
 
