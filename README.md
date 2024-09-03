@@ -1,9 +1,9 @@
-🎓 Image Processing and Computer Vision with Python
-Welcome to the Image Processing and Computer Vision with Python repository! 
-This project covers a wide range of topics and exercises that are essential for mastering image processing and computer vision techniques using Python and OpenCV.
+🎓 Deep Learning with Image Processing: Python, OpenCV, and Keras
+Deep Learning with Image Processing repository welcomes you! 
+This project covers a wide range of topics and exercises necessary to learn image processing and computer vision techniques using Python, OpenCV, and Keras.
 
-📚 Contents
-This repository includes the following topics and assignments:
+📚 Table of Contents
+This repository includes the following topics :
 
 🐍 Python Basics
 Variables
