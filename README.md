@@ -101,6 +101,17 @@ Tracking Algorithms
 
 Mean Shift Algorithm
 
+⚽ Football Player Tracking with YOLOv8s
+
+In this project, I developed an application that tracks football players in match videos using tracking algorithms and assigns unique IDs to each player.
+This was accomplished using the YOLOv8s model for real-time object detection, followed by object tracking to ensure that each player's movements are accurately followed throughout the video.
+
+Project Features:
+
+Real-time Detection: The application detects football players in each frame of the video using the YOLOv8s model.
+Player Tracking: By leveraging tracking algorithms, each detected player is assigned a unique ID, ensuring consistent tracking across frames.
+Customizable: The application can be modified to track other types of objects and tailored for different video scenarios.
+
 🚀 Getting Started
 
 To get started with this repository, simply clone it to your local machine:
